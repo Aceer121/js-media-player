@@ -1,4 +1,4 @@
-.h1 {
-    margin: 0;
-    margin-right: 22px;
+.flexbox {
+    display: flex;
+    justify-content: center;
 }
